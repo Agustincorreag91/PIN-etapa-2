@@ -1,7 +1,1 @@
-# gh-tf-mio
-
-lanzando v10 con buckets y dinamodb!!
-
-(HINT. armar el bucket S3, y la base dynamodb a mano).
-
-SI se quiere terrafonear, mejor.
+Modificamos el readme para lanzar la ejecucion del pipeline
