@@ -1,2 +1,2 @@
 Modificamos el readme para lanzar la ejecucion del pipeline
-ejecucion 1
+ejecucion 2
